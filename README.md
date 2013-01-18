@@ -1,0 +1,8 @@
+RubyClassGem
+===============
+
+Synopsis
+--------
+
+Reverses String
+
