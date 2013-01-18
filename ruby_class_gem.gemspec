@@ -1,3 +1,3 @@
-Gem::Specification.new do |s|
+#Gem::Specification.new do |s|
 
-end
+#end
